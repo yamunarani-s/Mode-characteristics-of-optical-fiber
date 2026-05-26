@@ -12,6 +12,7 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 ---
 # Theory 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2db42f3c-7370-4b47-a29b-cbf81f69273f" />
+
 # Procedure
 1. Place the optical breadboard on a flat table surface.  
 2. Fix the cylindrical head of the He-Ne laser source onto the breadboard securely.  
@@ -28,8 +29,6 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 
 # Observation and Calculation
 <img width="400" height="136" alt="image" src="https://github.com/user-attachments/assets/3d0b54ac-b870-412c-9344-ef34bda44f69" />
-
-
 <img width="550" height="600" alt="WhatsApp Image 2026-05-26 at 6 58 20 PM" src="https://github.com/user-attachments/assets/26196329-d89e-403f-9a65-67cb53fb2c4e" />
 
 ---
