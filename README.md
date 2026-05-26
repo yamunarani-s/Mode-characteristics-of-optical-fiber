@@ -12,7 +12,7 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 ---
 
 # Theory
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/2db42f3c-7370-4b47-a29b-cbf81f69273f" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2db42f3c-7370-4b47-a29b-cbf81f69273f" />
 
 # Procedure
 1. Place the optical breadboard on a flat table surface.  
@@ -26,12 +26,12 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 9. View the multimode speckle pattern on the screen. Adjust screws to refine the pattern. Replace with single mode fiber.  
 10. For single mode fiber, observe blur patterns with lobes (two, three, or four) by fine-tuning the coupler screws.  
 ---
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/b611cde3-a1f1-4bf4-ac7a-9de89f4b6f53" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/b611cde3-a1f1-4bf4-ac7a-9de89f4b6f53" />
 
 # Observation and Calculation
 <img width="442" height="136" alt="image" src="https://github.com/user-attachments/assets/3d0b54ac-b870-412c-9344-ef34bda44f69" />
 
-<img width="700" height="700" alt="WhatsApp Image 2026-05-26 at 6 58 20 PM" src="https://github.com/user-attachments/assets/26196329-d89e-403f-9a65-67cb53fb2c4e" />
+<img width="500" height="600" alt="WhatsApp Image 2026-05-26 at 6 58 20 PM" src="https://github.com/user-attachments/assets/26196329-d89e-403f-9a65-67cb53fb2c4e" />
 
 ---
 # Result
