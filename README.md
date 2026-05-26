@@ -10,10 +10,8 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 4. Fiber Holding Stand  
 5. Opaque Screen  
 ---
-
-# Theory
+# Theory 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2db42f3c-7370-4b47-a29b-cbf81f69273f" />
-
 # Procedure
 1. Place the optical breadboard on a flat table surface.  
 2. Fix the cylindrical head of the He-Ne laser source onto the breadboard securely.  
