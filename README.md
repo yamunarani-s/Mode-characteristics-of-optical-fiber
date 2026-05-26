@@ -12,7 +12,7 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 ---
 
 # Theory
-<img width="636" height="700" alt="image" src="https://github.com/user-attachments/assets/2db42f3c-7370-4b47-a29b-cbf81f69273f" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/2db42f3c-7370-4b47-a29b-cbf81f69273f" />
 
 # Procedure
 1. Place the optical breadboard on a flat table surface.  
